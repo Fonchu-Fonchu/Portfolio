@@ -23,8 +23,8 @@ export default function Resume() {
         <div>
             <p className="text-primary text-xl font-bold">Hi! I&apos;m</p>
             <div className="flex flex-col">
-                <h2 className="text-black z-20 dark:text-white text-6xl font-extrabold">Venyuy Fonchu, <br /> <span className="text-4xl">Software Developer</span></h2>
-                <p className="text-2xl text-black dark:text-white">Based in Douala, Cameroon</p>
+                <h2 className="text-black z-20 dark:text-white text-4xl lg:text-6xl font-extrabold">Venyuy Fonchu, <br /> <span className="text-2xl lg:text-4xl">Software Developer</span></h2>
+                <p className="text-xl lg:text-3xl text-black dark:text-white">Based in Douala, Cameroon</p>
                 <p className="absolute h-[70px] w-[70px] bg-primary rounded-full mt-3"></p>
             </div>
 
