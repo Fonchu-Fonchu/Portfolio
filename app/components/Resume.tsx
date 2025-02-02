@@ -21,7 +21,7 @@ export default function Resume() {
             Image here
         </div>
         <div>
-            <p className="text-primary text-xl font-bold">Hi! I'm</p>
+            <p className="text-primary text-xl font-bold">Hi! I&apos;m</p>
             <div className="flex flex-col">
                 <h2 className="text-black z-20 dark:text-white text-6xl font-extrabold">Venyuy Fonchu, <br /> <span className="text-4xl">Software Developer</span></h2>
                 <p className="text-2xl text-black dark:text-white">Based in Douala, Cameroon</p>

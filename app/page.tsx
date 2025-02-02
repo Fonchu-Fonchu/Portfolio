@@ -1,8 +1,8 @@
-import Image from "next/image";
+// import Image from "next/image";
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
-import About from './components/About';
-import Projects from './components/Projects';
+// import About from './components/About';
+// import Projects from './components/Projects';
 import Footer from './components/Footer';
 import Navigations from "./components/Navigations";
 import Specialities from "./components/Specialities";

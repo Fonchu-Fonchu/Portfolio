@@ -195,7 +195,7 @@ export default function Hero() {
             transition={{ delay: 0.2 }}
             className="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 dark:text-white mb-6"
           >
-            <span className="text-left">Hello! </span><br/> I'M A <span className="text-primary">Software Developer.</span>
+            <span className="text-left">Hello! </span><br/> I&apos;M A <span className="text-primary">Software Developer.</span>
           </motion.h1>
 
           <motion.p
