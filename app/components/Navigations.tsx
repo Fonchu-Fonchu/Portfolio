@@ -35,7 +35,7 @@ export default function Navigations() {
                   ${
                     activeTab === item.name
                       ? "text-primary font-semibold"
-                      : "text-gray-800 hover:text-white"
+                      : "text-gray-800 dark:text-white hover:text-white"
                   }`}
                       >
                         {item.name}
