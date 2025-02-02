@@ -30,7 +30,7 @@ export default function Specialities() {
       <motion.div
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
-        className="items-center flex flex-col lg:flex-row justify-start lg:justify-between mb-7"
+        className="items-start lg:items-center flex flex-col lg:flex-row justify-start lg:justify-between mb-7"
       >
         <motion.h3
           initial={{ opacity: 0 }}
