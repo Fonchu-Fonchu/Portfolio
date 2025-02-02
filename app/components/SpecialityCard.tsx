@@ -22,7 +22,7 @@ export default function SpecialityCard(props: {title: string, description: strin
       <h4 className="text-base font-semibold text-primary mb-2 capitalize transition-all duration-500 ">
         {title}
       </h4>
-      <p className="text-sm font-normal text-gray-500 transition-all duration-500 leading-5 mb-4">
+      <p className="text-sm text-black dark:text-white font-normal transition-all duration-500 leading-5 mb-4">
         {" "}
         {description}
       </p>

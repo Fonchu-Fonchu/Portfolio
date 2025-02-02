@@ -174,7 +174,7 @@ export default function Navbar() {
             href="/"
             className="text-2xl font-bold text-primary dark:text-accent"
           >
-            ev fonchu
+            foven
           </Link>
 
           {/* Desktop Navigation */}

@@ -17,7 +17,7 @@ export default function Resume() {
   return (
     <div className="container mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 sm:grid-cols-2 my-12">
 
-        <div className=" bg-[url(/fonchud.jpg)] flex justify-center items-center">
+        <div className=" bg-[url(/fonchud.jpg)] flex justify-center items-center text-black dark:text-white">
             Image here
         </div>
         <div>
@@ -29,7 +29,7 @@ export default function Resume() {
             </div>
 
             <div className="my-5">
-                <p className="font-semibold">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium vel cumque eos nobis magni, omnis cupiditate consequuntur alias nam, id numquam minima, similique maxime? Odit earum reiciendis aut expedita quis odio ab cum at minima. Mollitia impedit dolore dolorem voluptates officiis, voluptate cupiditate facere atque asperiores non, ratione id pariatur!</p>
+                <p className="font-semibold text-black dark:text-white">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium vel cumque eos nobis magni, omnis cupiditate consequuntur alias nam, id numquam minima, similique maxime? Odit earum reiciendis aut expedita quis odio ab cum at minima. Mollitia impedit dolore dolorem voluptates officiis, voluptate cupiditate facere atque asperiores non, ratione id pariatur!</p>
             </div>
 
             <div className="flex justify-start gap-12 mt-7">
