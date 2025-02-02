@@ -30,7 +30,7 @@ export default function Specialities() {
       <motion.div
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
-        className="items-center flex flex-col lg:flex-row justify-between mb-7"
+        className="items-center flex flex-col lg:flex-row justify-start lg:justify-between mb-7"
       >
         <motion.h3
           initial={{ opacity: 0 }}
@@ -41,7 +41,7 @@ export default function Specialities() {
           My Specialities
         </motion.h3>
         <p className="absolute h-[50px] w-[50px] bg-primary rounded-full"></p>
-        <p className="text-black w-[50%] dark:text-white font-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur fuga minima et dolor ea. Repellendus beatae corrupti consequuntur quaerat modi.</p>
+        <p className="text-black w-[100%] lg:w-[50%] dark:text-white font-bold">Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur fuga minima et dolor ea. Repellendus beatae corrupti consequuntur quaerat modi.</p>
       </motion.div>
       <div className="flex gap-4 justify-cente container flex-col lg:flex-row">
         <div>
